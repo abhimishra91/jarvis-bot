@@ -1,0 +1,10 @@
+{
+    "dev": {
+        "app_function": "app.APP",
+        "aws_region": "eu-west-1",
+        "profile_name": "default",
+        "project_name": "jarvis-bot",
+        "runtime": "python3.7",
+        "s3_bucket": "jarvis-bot"
+    }
+}

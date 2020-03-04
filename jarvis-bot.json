@@ -1,0 +1,4 @@
+{
+    "bot_name": "jarvis-bot",
+    "bot_description": "This bot works with the deployed jarvis rest service to predict the queue for the input client emails."
+}
